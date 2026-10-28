@@ -1,0 +1,251 @@
+[
+  {
+    "case": 0,
+    "text": "Hello Mike, Gemma is writing these words and Sesame is speaking them.",
+    "http_status": 200,
+    "overlap_status": 409,
+    "first_pcm_seconds": 0.3465803749859333,
+    "total_seconds": 5.404351375007536,
+    "audio_seconds": 5.6,
+    "rtf": 0.9650627455370601,
+    "server": {
+      "total_seconds": 5.39556079095928,
+      "audio_seconds": 5.6,
+      "rtf": 0.9634929983855858,
+      "first_pcm_seconds": 0.3375908329617232,
+      "codec_seconds": 0.32214124995516613,
+      "chunks": 18,
+      "arrivals": [
+        {
+          "seconds": 0.3375908329617232,
+          "samples": 7680
+        },
+        {
+          "seconds": 0.6213316249777563,
+          "samples": 7680
+        },
+        {
+          "seconds": 0.9068025829619728,
+          "samples": 7680
+        },
+        {
+          "seconds": 1.1935549579793587,
+          "samples": 7680
+        },
+        {
+          "seconds": 1.4785839579999447,
+          "samples": 7680
+        },
+        {
+          "seconds": 1.761903665959835,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.0469969999976456,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.337505624978803,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.6268172080162913,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.9332612910075113,
+          "samples": 7680
+        },
+        {
+          "seconds": 3.2569757499732077,
+          "samples": 7680
+        },
+        {
+          "seconds": 3.5839960409794003,
+          "samples": 7680
+        },
+        {
+          "seconds": 3.902465790975839,
+          "samples": 7680
+        },
+        {
+          "seconds": 4.213314916007221,
+          "samples": 7680
+        },
+        {
+          "seconds": 4.51709524996113,
+          "samples": 7680
+        },
+        {
+          "seconds": 4.820499499968719,
+          "samples": 7680
+        },
+        {
+          "seconds": 5.124138707993552,
+          "samples": 7680
+        },
+        {
+          "seconds": 5.395376915985253,
+          "samples": 3840
+        }
+      ],
+      "eos": true,
+      "status": "complete",
+      "request_id": "820732ebadcd4d5dbb6dfcf8be911fe2"
+    }
+  },
+  {
+    "case": 1,
+    "text": "I thought I had everything ready. Then I realized I'd left my keys in the kitchen.",
+    "http_status": 200,
+    "overlap_status": 409,
+    "first_pcm_seconds": 0.3292477499926463,
+    "total_seconds": 3.770482791995164,
+    "audio_seconds": 3.92,
+    "rtf": 0.9618578551008071,
+    "server": {
+      "total_seconds": 3.768971833982505,
+      "audio_seconds": 3.92,
+      "rtf": 0.96147240662819,
+      "first_pcm_seconds": 0.3275257499772124,
+      "codec_seconds": 0.19952195801306516,
+      "chunks": 13,
+      "arrivals": [
+        {
+          "seconds": 0.3275257499772124,
+          "samples": 7680
+        },
+        {
+          "seconds": 0.6322386249667034,
+          "samples": 7680
+        },
+        {
+          "seconds": 0.9335997089510784,
+          "samples": 7680
+        },
+        {
+          "seconds": 1.2219348749495111,
+          "samples": 7680
+        },
+        {
+          "seconds": 1.517682874982711,
+          "samples": 7680
+        },
+        {
+          "seconds": 1.8083722500014119,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.1008037499850616,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.391578958951868,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.692295166954864,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.9849388339789584,
+          "samples": 7680
+        },
+        {
+          "seconds": 3.280451375001576,
+          "samples": 7680
+        },
+        {
+          "seconds": 3.5705078750033863,
+          "samples": 7680
+        },
+        {
+          "seconds": 3.7688354999991134,
+          "samples": 1920
+        }
+      ],
+      "eos": true,
+      "status": "complete",
+      "request_id": "92257991d4cc4186b51b88eb3c2b29e4"
+    }
+  },
+  {
+    "case": 2,
+    "text": "Well, that was unexpected! Give me a second, and I'll explain what happened.",
+    "http_status": 200,
+    "overlap_status": 409,
+    "first_pcm_seconds": 0.309792332991492,
+    "total_seconds": 4.081263749976642,
+    "audio_seconds": 4.4,
+    "rtf": 0.9275599431765096,
+    "server": {
+      "total_seconds": 4.0799145409837365,
+      "audio_seconds": 4.4,
+      "rtf": 0.927253304769031,
+      "first_pcm_seconds": 0.3082624999806285,
+      "codec_seconds": 0.16746712516760454,
+      "chunks": 14,
+      "arrivals": [
+        {
+          "seconds": 0.3082624999806285,
+          "samples": 7680
+        },
+        {
+          "seconds": 0.5990247500012629,
+          "samples": 7680
+        },
+        {
+          "seconds": 0.8970442910213023,
+          "samples": 7680
+        },
+        {
+          "seconds": 1.18281000002753,
+          "samples": 7680
+        },
+        {
+          "seconds": 1.4773772080079652,
+          "samples": 7680
+        },
+        {
+          "seconds": 1.7640917910030112,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.056552040972747,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.346177915984299,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.6404193330090493,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.9323201249935664,
+          "samples": 7680
+        },
+        {
+          "seconds": 3.21785654098494,
+          "samples": 7680
+        },
+        {
+          "seconds": 3.5051839579828084,
+          "samples": 7680
+        },
+        {
+          "seconds": 3.79049954097718,
+          "samples": 7680
+        },
+        {
+          "seconds": 4.079780375002883,
+          "samples": 5760
+        }
+      ],
+      "eos": true,
+      "status": "complete",
+      "request_id": "1ca4b195b09f49de8692f1691d170bbb"
+    }
+  }
+]

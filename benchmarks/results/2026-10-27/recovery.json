@@ -1,0 +1,349 @@
+{
+  "empty_text_status": 400,
+  "cap_signalled_as_incomplete": true,
+  "cancelled_request": {
+    "status": "cancelled",
+    "request_id": "e267531c857b4c67a7cc1888d1f5b974"
+  },
+  "long_request": {
+    "text": "Okay, here's what happened. I went out for a walk because I'd been staring at the same problem all morning, and I thought a little fresh air might help. About ten minutes later, it suddenly clicked. The problem wasn't the complicated part I'd been worrying about. It was one tiny assumption I'd made right at the beginning. So I stopped, wrote a note on my phone, and headed home. Of course, by then I'd completely forgotten to buy the milk. But I did finally fix the problem.",
+    "first_pcm_seconds": 0.3679995410493575,
+    "total_seconds": 23.043916499998886,
+    "audio_seconds": 25.52,
+    "rtf": 0.902974784482715,
+    "minimum_extra_playback_buffer_seconds": 0,
+    "server": {
+      "total_seconds": 23.04172862501582,
+      "audio_seconds": 25.52,
+      "rtf": 0.9028890527043817,
+      "first_pcm_seconds": 0.3658047500066459,
+      "codec_seconds": 0.9578265849268064,
+      "chunks": 80,
+      "arrivals": [
+        {
+          "seconds": 0.3658047500066459,
+          "samples": 7680
+        },
+        {
+          "seconds": 0.6569122080109082,
+          "samples": 7680
+        },
+        {
+          "seconds": 0.9463959999848157,
+          "samples": 7680
+        },
+        {
+          "seconds": 1.234476750018075,
+          "samples": 7680
+        },
+        {
+          "seconds": 1.5225005410029553,
+          "samples": 7680
+        },
+        {
+          "seconds": 1.807270833000075,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.095369540969841,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.3840733749675564,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.6661434160196222,
+          "samples": 7680
+        },
+        {
+          "seconds": 2.9483151659951545,
+          "samples": 7680
+        },
+        {
+          "seconds": 3.2345067500136793,
+          "samples": 7680
+        },
+        {
+          "seconds": 3.5207714160205796,
+          "samples": 7680
+        },
+        {
+          "seconds": 3.804798291006591,
+          "samples": 7680
+        },
+        {
+          "seconds": 4.093596666003577,
+          "samples": 7680
+        },
+        {
+          "seconds": 4.382513332995586,
+          "samples": 7680
+        },
+        {
+          "seconds": 4.670362666016445,
+          "samples": 7680
+        },
+        {
+          "seconds": 4.95607029099483,
+          "samples": 7680
+        },
+        {
+          "seconds": 5.244176874984987,
+          "samples": 7680
+        },
+        {
+          "seconds": 5.5329077080241404,
+          "samples": 7680
+        },
+        {
+          "seconds": 5.819555040972773,
+          "samples": 7680
+        },
+        {
+          "seconds": 6.106244082970079,
+          "samples": 7680
+        },
+        {
+          "seconds": 6.3956814159755595,
+          "samples": 7680
+        },
+        {
+          "seconds": 6.685321457975078,
+          "samples": 7680
+        },
+        {
+          "seconds": 6.974343582987785,
+          "samples": 7680
+        },
+        {
+          "seconds": 7.262765874969773,
+          "samples": 7680
+        },
+        {
+          "seconds": 7.549997499969322,
+          "samples": 7680
+        },
+        {
+          "seconds": 7.836747290974017,
+          "samples": 7680
+        },
+        {
+          "seconds": 8.127995249989908,
+          "samples": 7680
+        },
+        {
+          "seconds": 8.41800287499791,
+          "samples": 7680
+        },
+        {
+          "seconds": 8.706358333001845,
+          "samples": 7680
+        },
+        {
+          "seconds": 8.994542124972213,
+          "samples": 7680
+        },
+        {
+          "seconds": 9.284180707996711,
+          "samples": 7680
+        },
+        {
+          "seconds": 9.57174624997424,
+          "samples": 7680
+        },
+        {
+          "seconds": 9.858056958008092,
+          "samples": 7680
+        },
+        {
+          "seconds": 10.144281166023575,
+          "samples": 7680
+        },
+        {
+          "seconds": 10.432820165995508,
+          "samples": 7680
+        },
+        {
+          "seconds": 10.717091457976494,
+          "samples": 7680
+        },
+        {
+          "seconds": 11.001870375010185,
+          "samples": 7680
+        },
+        {
+          "seconds": 11.289133624988608,
+          "samples": 7680
+        },
+        {
+          "seconds": 11.575298416020814,
+          "samples": 7680
+        },
+        {
+          "seconds": 11.862586833012756,
+          "samples": 7680
+        },
+        {
+          "seconds": 12.14810245798435,
+          "samples": 7680
+        },
+        {
+          "seconds": 12.432697582989931,
+          "samples": 7680
+        },
+        {
+          "seconds": 12.717685832991265,
+          "samples": 7680
+        },
+        {
+          "seconds": 13.001178624981549,
+          "samples": 7680
+        },
+        {
+          "seconds": 13.288511625025421,
+          "samples": 7680
+        },
+        {
+          "seconds": 13.57747991598444,
+          "samples": 7680
+        },
+        {
+          "seconds": 13.863692582992371,
+          "samples": 7680
+        },
+        {
+          "seconds": 14.148604582995176,
+          "samples": 7680
+        },
+        {
+          "seconds": 14.435230500006583,
+          "samples": 7680
+        },
+        {
+          "seconds": 14.724189875007141,
+          "samples": 7680
+        },
+        {
+          "seconds": 15.010294791019987,
+          "samples": 7680
+        },
+        {
+          "seconds": 15.298023416020442,
+          "samples": 7680
+        },
+        {
+          "seconds": 15.58331833302509,
+          "samples": 7680
+        },
+        {
+          "seconds": 15.868558750022203,
+          "samples": 7680
+        },
+        {
+          "seconds": 16.155020874983165,
+          "samples": 7680
+        },
+        {
+          "seconds": 16.43994524999289,
+          "samples": 7680
+        },
+        {
+          "seconds": 16.72570175002329,
+          "samples": 7680
+        },
+        {
+          "seconds": 17.00972470798297,
+          "samples": 7680
+        },
+        {
+          "seconds": 17.295475666003767,
+          "samples": 7680
+        },
+        {
+          "seconds": 17.579281457990874,
+          "samples": 7680
+        },
+        {
+          "seconds": 17.863658374990337,
+          "samples": 7680
+        },
+        {
+          "seconds": 18.14904699998442,
+          "samples": 7680
+        },
+        {
+          "seconds": 18.433065208024345,
+          "samples": 7680
+        },
+        {
+          "seconds": 18.719654083019122,
+          "samples": 7680
+        },
+        {
+          "seconds": 19.00373141601449,
+          "samples": 7680
+        },
+        {
+          "seconds": 19.29341454099631,
+          "samples": 7680
+        },
+        {
+          "seconds": 19.579058500006795,
+          "samples": 7680
+        },
+        {
+          "seconds": 19.86457304097712,
+          "samples": 7680
+        },
+        {
+          "seconds": 20.14974587498,
+          "samples": 7680
+        },
+        {
+          "seconds": 20.435156040999573,
+          "samples": 7680
+        },
+        {
+          "seconds": 20.724248540995177,
+          "samples": 7680
+        },
+        {
+          "seconds": 21.014323415991385,
+          "samples": 7680
+        },
+        {
+          "seconds": 21.30703766597435,
+          "samples": 7680
+        },
+        {
+          "seconds": 21.596361041010823,
+          "samples": 7680
+        },
+        {
+          "seconds": 21.889184499974363,
+          "samples": 7680
+        },
+        {
+          "seconds": 22.181574082991574,
+          "samples": 7680
+        },
+        {
+          "seconds": 22.466596374986693,
+          "samples": 7680
+        },
+        {
+          "seconds": 22.75246441597119,
+          "samples": 7680
+        },
+        {
+          "seconds": 23.04160195798613,
+          "samples": 5760
+        }
+      ],
+      "eos": true,
+      "status": "complete",
+      "request_id": "8942f2bb68ba405eaaba90197e3f686b"
+    }
+  }
+}

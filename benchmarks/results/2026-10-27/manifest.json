@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-27",
+  "machine": "Apple M3 Ultra Mac Studio, 512 GB unified memory",
+  "os": "macOS 27.0.1",
+  "python": "3.12.14",
+  "torch": "2.14.1",
+  "transformers": "5.21.0",
+  "model": "sesame/csm-1b",
+  "model_revision": "c92a71e1c419772e25be7dc14d952c2521a740ab",
+  "generation": {
+    "backbone_temperature": 0.9,
+    "backbone_top_k": 50,
+    "depth_temperature": 0.9,
+    "depth_top_k": 50,
+    "seed_cases": [
+      42,
+      123
+    ]
+  },
+  "precision": {
+    "backbone": "bfloat16",
+    "depth": "bfloat16",
+    "buffered_benchmark_codec": "bfloat16",
+    "selected_streaming_codec": "float32"
+  },
+  "limitations": [
+    "Pilot cohort; no statistical performance guarantee",
+    "One of six buffered cases capped at 250 frames in both arms",
+    "Streaming numerical equivalence is against full FP32 Mimi decode",
+    "No independent speech-quality or acoustic-latency evaluation",
+    "No text-generation model was resident during measurements"
+  ]
+}

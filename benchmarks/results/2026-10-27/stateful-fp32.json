@@ -1,0 +1,239 @@
+[
+  {
+    "total_seconds": 5.126870458014309,
+    "audio_seconds": 5.6,
+    "rtf": 0.9155125817882696,
+    "first_pcm_seconds": 0.30002858297666535,
+    "codec_seconds": 0.28482654492836446,
+    "chunks": 18,
+    "arrivals": [
+      {
+        "seconds": 0.30002858297666535,
+        "samples": 7680
+      },
+      {
+        "seconds": 0.5828281659632921,
+        "samples": 7680
+      },
+      {
+        "seconds": 0.8693115829955786,
+        "samples": 7680
+      },
+      {
+        "seconds": 1.1538221249938942,
+        "samples": 7680
+      },
+      {
+        "seconds": 1.4395394579623826,
+        "samples": 7680
+      },
+      {
+        "seconds": 1.7270279999938793,
+        "samples": 7680
+      },
+      {
+        "seconds": 2.0116516249836423,
+        "samples": 7680
+      },
+      {
+        "seconds": 2.2965177500154823,
+        "samples": 7680
+      },
+      {
+        "seconds": 2.5836384579888545,
+        "samples": 7680
+      },
+      {
+        "seconds": 2.869644915976096,
+        "samples": 7680
+      },
+      {
+        "seconds": 3.154360832995735,
+        "samples": 7680
+      },
+      {
+        "seconds": 3.43897666601697,
+        "samples": 7680
+      },
+      {
+        "seconds": 3.7241712500108406,
+        "samples": 7680
+      },
+      {
+        "seconds": 4.01039316598326,
+        "samples": 7680
+      },
+      {
+        "seconds": 4.296808790997602,
+        "samples": 7680
+      },
+      {
+        "seconds": 4.584883624978829,
+        "samples": 7680
+      },
+      {
+        "seconds": 4.871564665983897,
+        "samples": 7680
+      },
+      {
+        "seconds": 5.126769249967765,
+        "samples": 3840
+      }
+    ],
+    "eos": true,
+    "case": 0,
+    "text": "Hello Mike, Gemma is writing these words and Sesame is speaking them.",
+    "chunk_frames": 4,
+    "codec": "stateful",
+    "codec_dtype": "float32",
+    "same_length": true,
+    "max_sample_error": 5.736947059631348e-07,
+    "rmse": 3.3884045791410244e-08
+  },
+  {
+    "total_seconds": 3.6148378750076517,
+    "audio_seconds": 3.92,
+    "rtf": 0.922152519134605,
+    "first_pcm_seconds": 0.30099962500389665,
+    "codec_seconds": 0.19142008305061609,
+    "chunks": 13,
+    "arrivals": [
+      {
+        "seconds": 0.30099962500389665,
+        "samples": 7680
+      },
+      {
+        "seconds": 0.5853991250041872,
+        "samples": 7680
+      },
+      {
+        "seconds": 0.8677436250145547,
+        "samples": 7680
+      },
+      {
+        "seconds": 1.1521161670098081,
+        "samples": 7680
+      },
+      {
+        "seconds": 1.4338918330031447,
+        "samples": 7680
+      },
+      {
+        "seconds": 1.7184159579919651,
+        "samples": 7680
+      },
+      {
+        "seconds": 2.0039042080170475,
+        "samples": 7680
+      },
+      {
+        "seconds": 2.2880756669910625,
+        "samples": 7680
+      },
+      {
+        "seconds": 2.5732591249980032,
+        "samples": 7680
+      },
+      {
+        "seconds": 2.8573000420001335,
+        "samples": 7680
+      },
+      {
+        "seconds": 3.142362124985084,
+        "samples": 7680
+      },
+      {
+        "seconds": 3.4252737080096267,
+        "samples": 7680
+      },
+      {
+        "seconds": 3.6147385420044884,
+        "samples": 1920
+      }
+    ],
+    "eos": true,
+    "case": 1,
+    "text": "I thought I had everything ready. Then I realized I'd left my keys in the kitchen.",
+    "chunk_frames": 4,
+    "codec": "stateful",
+    "codec_dtype": "float32",
+    "same_length": true,
+    "max_sample_error": 1.4379620552062988e-06,
+    "rmse": 1.051234264082268e-07
+  },
+  {
+    "total_seconds": 4.013870499969926,
+    "audio_seconds": 4.4,
+    "rtf": 0.9122432954477103,
+    "first_pcm_seconds": 0.30087208398617804,
+    "codec_seconds": 0.16520571109140292,
+    "chunks": 14,
+    "arrivals": [
+      {
+        "seconds": 0.30087208398617804,
+        "samples": 7680
+      },
+      {
+        "seconds": 0.581618083990179,
+        "samples": 7680
+      },
+      {
+        "seconds": 0.865311625006143,
+        "samples": 7680
+      },
+      {
+        "seconds": 1.1533339589950629,
+        "samples": 7680
+      },
+      {
+        "seconds": 1.4369067089864984,
+        "samples": 7680
+      },
+      {
+        "seconds": 1.721021999954246,
+        "samples": 7680
+      },
+      {
+        "seconds": 2.007002416998148,
+        "samples": 7680
+      },
+      {
+        "seconds": 2.291476583981421,
+        "samples": 7680
+      },
+      {
+        "seconds": 2.576103792001959,
+        "samples": 7680
+      },
+      {
+        "seconds": 2.8679980419692583,
+        "samples": 7680
+      },
+      {
+        "seconds": 3.1539878339972347,
+        "samples": 7680
+      },
+      {
+        "seconds": 3.438072958961129,
+        "samples": 7680
+      },
+      {
+        "seconds": 3.7244960839743726,
+        "samples": 7680
+      },
+      {
+        "seconds": 4.01379283395363,
+        "samples": 5760
+      }
+    ],
+    "eos": true,
+    "case": 2,
+    "text": "Well, that was unexpected! Give me a second, and I'll explain what happened.",
+    "chunk_frames": 4,
+    "codec": "stateful",
+    "codec_dtype": "float32",
+    "same_length": true,
+    "max_sample_error": 2.028420567512512e-06,
+    "rmse": 1.0616064116675261e-07
+  }
+]

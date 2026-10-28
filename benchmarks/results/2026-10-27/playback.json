@@ -1,0 +1,11 @@
+{
+  "command": "sesame stream",
+  "player": "ffplay",
+  "format": "pcm_s16le mono 24000 Hz",
+  "first_pcm_to_player_seconds": 0.4321040419745259,
+  "network_complete_seconds": 7.928581041982397,
+  "audio_seconds": 8.0,
+  "playback_process_complete_seconds": 8.252920541970525,
+  "player_exit_code": 0,
+  "note": "First PCM is delivery to the player pipe, not measured acoustic latency."
+}

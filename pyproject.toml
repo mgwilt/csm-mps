@@ -1,0 +1,48 @@
+[project]
+name = "csm-inference"
+version = "0.1.0"
+description = "Local CSM-1B inference with optimized MPS decoding and PCM streaming"
+readme = "README.md"
+license = "Apache-2.0"
+license-files = ["LICENSE", "NOTICE"]
+authors = [{ name = "Mike" }]
+keywords = ["tts", "csm", "mps", "apple-silicon", "streaming"]
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "accelerate>=1.15.0",
+    "huggingface-hub>=1.0",
+    "soundfile>=0.14.0",
+    "numpy>=2.0",
+    "torch==2.14.1",
+    "transformers==5.21.0",
+]
+
+[project.urls]
+Repository = "https://github.com/mgwilt/csm-mps"
+Issues = "https://github.com/mgwilt/csm-mps/issues"
+
+[project.scripts]
+csm = "csm_inference.cli:main"
+csm-server = "csm_inference.server:main"
+sesame = "csm_inference.cli:main"
+sesame-server = "csm_inference.server:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+
+[build-system]
+requires = ["uv_build>=0.13.4,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "ruff>=0.17.3",
+]

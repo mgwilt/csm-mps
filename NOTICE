@@ -1,0 +1,12 @@
+CSM Inference
+Copyright 2026 Mike
+
+This project provides an independent inference implementation for Sesame CSM-1B.
+It uses Hugging Face Transformers and the separately downloaded Sesame CSM-1B
+checkpoint. Upstream projects and model weights retain their own licenses.
+
+Sesame CSM: https://github.com/SesameAILabs/csm
+CSM-1B model: https://huggingface.co/sesame/csm-1b
+Transformers: https://github.com/huggingface/transformers
+
+This project is not affiliated with or endorsed by Sesame.

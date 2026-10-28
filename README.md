@@ -42,7 +42,7 @@ The server listens on `127.0.0.1:7861` and accepts one synthesis at a time. `--m
 
 ## What changes
 
-The checkpoint is unchanged. Our depth decoder runs the same 31 codebook steps with a frame-local KV cache and direct output-head selection, avoiding repeated general-purpose `generate()` calls. Stateful Mimi decoding retains convolution history, upsampling overlap, and transformer KV state, so only new frames are decoded. Generation uses BF16; the streaming codec uses FP32. `--engine baseline` selects the original depth loop for WAV comparisons.
+The checkpoint is unchanged. The custom depth decoder runs the same 31 codebook steps with a frame-local KV cache and direct output-head selection, avoiding repeated general-purpose `generate()` calls. Stateful Mimi decoding retains convolution history, upsampling overlap, and transformer KV state, so only new frames are decoded. Generation uses BF16; the streaming codec uses FP32. `--engine baseline` selects the original depth loop for WAV comparisons.
 
 ## Measured performance
 
